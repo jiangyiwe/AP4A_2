@@ -1,0 +1,18 @@
+Date et heure :Sat Oct 09 18:58:39 2021
+
+Temperature :3 /Humidity :132/Pression:  128/Light:   Eteinte
+Date et heure :Sat Oct 09 18:58:42 2021
+
+Temperature :21 /Humidity :152/Pression:  282/Light:   Allume
+Date et heure :Sat Oct 09 18:58:44 2021
+
+Temperature :16 /Humidity :111/Pression:  475/Light:   Allume
+Date et heure :Sat Oct 09 18:58:47 2021
+
+Temperature :24 /Humidity :166/Pression:  150/Light:   Allume
+Date et heure :Sat Oct 09 18:58:49 2021
+
+Temperature :2 /Humidity :128/Pression:  331/Light:   Allume
+Date et heure :Sat Oct 09 18:58:50 2021
+
+Temperature :9 /Humidity :107/Pression:  194/Light:   Allume
